@@ -90,3 +90,7 @@ The Logistic Regression model, while less accurate, provides a simpler and more 
 ## Future Work
 
 Future work could involve combining both models in an ensemble or leveraging techniques such as feature selection and data augmentation to enhance predictive power.
+
+## Reference and Dataset Source
+
+The dataset used for this analysis can be found at: [Click-Through Rate Prediction Dataset on Kaggle](https://www.kaggle.com/datasets/gauravduttakiit/clickthrough-rate-prediction).

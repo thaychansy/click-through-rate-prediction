@@ -57,3 +57,8 @@
 ## Conclusion
 
 - While there are challenges associated with using machine learning for CTR prediction, the benefits often outweigh the drawbacks. Machine learning provides advertisers with valuable insights that help them fine-tune their campaigns and maximize ROI. In the following code examples, we will demonstrate how to implement machine learning techniques to predict ad click-through rates and evaluate the performance of these models.
+
+## Reference and Dataset Source
+
+The dataset used for this analysis can be found at: [Click-Through Rate Prediction Dataset on Kaggle](https://www.kaggle.com/datasets/gauravduttakiit/clickthrough-rate-prediction).
+
