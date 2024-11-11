@@ -1,5 +1,8 @@
 # Predicting Ads Click-Through Rate (CTR)
 
+![image](https://github.com/user-attachments/assets/f42664cb-0f2b-4b30-867f-c80799be29f5)
+
+
   Click-Through Rate (CTR) prediction is a fundamental task in online advertising. The main objective is to estimate the probability that a user will click on a given advertisement. Accurate CTR prediction is essential for optimizing ad campaigns, allowing advertisers to allocate resources efficiently, target specific audience segments, and maximize return on investment (ROI). Machine learning techniques are often employed for this task due to their ability to process large datasets and identify intricate patterns that help forecast user behavior.
 
 ## The Role of Machine Learning in CTR Prediction
