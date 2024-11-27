@@ -25,9 +25,9 @@ This report provides a comparison between the performance of a Logistic Regressi
 **Observations:**
 
 - The model achieved an accuracy of 72%, indicating that it correctly predicted 72% of the total instances.
-- Precision of 0.73 suggests that when the model predicts a positive class (e.g., a user will click on an ad), it is correct 73% of the time.
-- Recall of 0.68 indicates that the model identifies 68% of actual positive cases, showing that there is room for improvement in capturing all positive instances.
-- The F1-score of 0.70 shows a moderate balance between precision and recall, but there is potential for enhancement.
+- Precision of 73% suggests that when the model predicts a positive class (e.g., a user will click on an ad), it is correct 73% of the time.
+- Recall of 68% indicates that the model identifies 68% of actual positive cases, showing that there is room for improvement in capturing all positive instances.
+- The F1-score of 70% shows a moderate balance between precision and recall, but there is potential for enhancement.
 - The confusion matrix highlights 462 false negatives and 374 false positives, implying that the model has difficulty in correctly predicting some positive and negative cases.
 
 **Strengths:**
@@ -45,12 +45,12 @@ This report provides a comparison between the performance of a Logistic Regressi
 
 **Metrics:**
 
-- Accuracy: 0.882
-- Precision (Class 0): 0.881
-- Recall (Class 0): 0.887
-- Precision (Class 1): 0.883
-- Recall (Class 1): 0.877
-- F1-Score (Overall): 0.882
+- Accuracy: 0.88
+- Precision (Class 0): 0.88
+- Recall (Class 0): 0.88
+- Precision (Class 1): 0.88
+- Recall (Class 1): 0.88
+- F1-Score (Overall): 0.88
 
 **Confusion Matrix:**
 
@@ -61,9 +61,9 @@ This report provides a comparison between the performance of a Logistic Regressi
 
 **Observations:**
 
-- The XGBoost model achieved a high accuracy of 88.2%, indicating better performance compared to the logistic regression model.
+- The XGBoost model achieved a high accuracy of 88%, indicating better performance compared to the logistic regression model.
 - Precision and recall for both classes are balanced, with both scoring around 88%, showing strong predictive capability.
-- The F1-score of 0.882 confirms that the model maintains a good balance between precision and recall.
+- The F1-score of 88% confirms that the model maintains a good balance between precision and recall.
 - The confusion matrix shows 121 false negatives and 115 false positives, indicating fewer misclassifications compared to the logistic regression model.
 
 **Strengths:**
