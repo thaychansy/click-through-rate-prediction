@@ -59,6 +59,10 @@ Click-Through Rate (CTR) prediction is a fundamental task in online advertising.
 ## Conclusion
 
 - While there are challenges associated with using machine learning for CTR prediction, the benefits often outweigh the drawbacks. Machine learning provides advertisers with valuable insights that help them fine-tune their campaigns and maximize ROI. In the following code examples, we will demonstrate how to implement machine learning techniques to predict ad click-through rates and evaluate the performance of these models.
+  
+- The XGBoost model outperforms the Logistic Regression model in terms of accuracy, precision, recall, and F1-score. It shows strong performance across both classes with fewer misclassifications.
+
+- The Logistic Regression model, while less accurate, provides a simpler and more interpretable solution that could be enhanced with additional feature engineering and hyperparameter tuning.
 
 ## Reference and Dataset Source
 
