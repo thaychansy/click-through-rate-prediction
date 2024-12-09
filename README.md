@@ -6,7 +6,7 @@ Click-Through Rate (CTR) prediction is a fundamental task in online advertising.
 
 ## The Role of Machine Learning in CTR Prediction
 
-- Machine learning (ML) algorithms are particularly suited for CTR prediction as they can extract complex patterns from historical data and make informed predictions. Below, we outline how machine learning contributes to predicting ad click-through rates:
+- Machine Learning (ML) algorithms are particularly suited for CTR prediction as they can extract complex patterns from historical data and make informed predictions. Below, we outline how machine learning contributes to predicting ad click-through rates:
 
 ### 1. **Feature Engineering**
 
